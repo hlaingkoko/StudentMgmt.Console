@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zinminaung\\StudentMgmt.Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\studentfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\studentfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\studentmgmt.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\studentmgmt.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEA5B70-D47C-4673-82F7-2ED3C0C5FC2E}|DataAccess\\DataAccess.csproj|d:\\zinminaung\\studentmgmt.console\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEA5B70-D47C-4673-82F7-2ED3C0C5FC2E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\teacherfuntions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\teacherfuntions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|d:\\zinminaung\\studentmgmt.console\\studentmgmt.console\\studentmgmt.console.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6DE288CB-245F-4AD1-B9EF-81221F2F57F9}|StudentMgmt.Console\\StudentMgmt.Console.csproj|solutionrelative:studentmgmt.console\\studentmgmt.console.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentMgmt.Console",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\StudentMgmt.Console.csproj",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\StudentMgmt.Console.csproj",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\StudentMgmt.Console.csproj*",
+              "RelativeToolTip": "StudentMgmt.Console\\StudentMgmt.Console.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-13T09:03:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:02:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherFuntions.cs",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\TeacherFuntions.cs",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\TeacherFuntions.cs",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\TeacherFuntions.cs",
+              "RelativeToolTip": "StudentMgmt.Console\\TeacherFuntions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:25:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentFunctions.cs",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\StudentFunctions.cs",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\StudentFunctions.cs",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\StudentFunctions.cs",
+              "RelativeToolTip": "StudentMgmt.Console\\StudentFunctions.cs",
+              "ViewState": "AQIAAAsAAAAAMzMzMzMbwCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:54:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\Student.cs",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\Student.cs",
+              "RelativeToolTip": "StudentMgmt.Console\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:53:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\Program.cs",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\Program.cs",
+              "RelativeToolTip": "StudentMgmt.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:33:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\Constants.cs",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\Constants.cs",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\Constants.cs",
+              "RelativeToolTip": "StudentMgmt.Console\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:46:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentMgmt.Console",
+              "DocumentMoniker": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\StudentMgmt.Console.csproj",
+              "RelativeDocumentMoniker": "StudentMgmt.Console\\StudentMgmt.Console.csproj",
+              "ToolTip": "D:\\zinminaung\\StudentMgmt.Console\\StudentMgmt.Console\\StudentMgmt.Console.csproj",
+              "RelativeToolTip": "StudentMgmt.Console\\StudentMgmt.Console.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-13T08:19:51.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
